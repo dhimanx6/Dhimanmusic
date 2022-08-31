@@ -1,12 +1,12 @@
 {
     "name": "ᴀɴᴏɴダᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/56d1760224589ee370186.jpg",
+    "logo": "https://telegra.ph/file/ce8efab574dd85199b3f3.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "AnonX",
+    "DhimanBot",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -15,32 +15,32 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "14254329",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "567e3f8d711e8367d4a8cd2ba725f082",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
         "description": "If you want your assistant to leave all chats automatically after some time.",
-        "value": "False",
+        "value": "true",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "5785834637:AAFX-nkvjMiqxEsqj6qxW5dJErmmCYXeBR4",
         "required": true
       },
       "DURATION_LIMIT_MIN": {
         "description": "Maximum duration that your bot can play in minutes.",
-        "value": "90",
+        "value": "333",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://aujla:aujla@cluster0.7vsys.mongodb.net/?retryWrites=true&w=majority",
         "required": false
       },
       "AUTO_DOWNLOADS_CLEAR": {
@@ -50,7 +50,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+        "value": "𓆩𝐎ᴘ ✘ 𝐌ᴀɴɴᴀᴛ ◍ 𝐌ᴜsɪᴄ𓆪",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
@@ -65,22 +65,22 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "1356469075",
+        "value": "5557243807",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQBWASviepkynz6c7vIt6gXJ2Ru6_Rzfh32tcjM8nlrxDXU5rERYk3fmiaIUWnduTvJSkfh3qmDLs_o0znlJdqI5REpOOZuhhBltQOBo64gX7q5CT-mdslljeljewEayo3GaPdp8F7HfKBcwGNTZoCtuypjbqfMGg0U8LjH2qnVDG-04VGDjBtn3WX2HQYFFOFLEpw9aOrmw7TzwWIG_hw3ixVA7Ut0e-UIzI2-bOsh2OK91khaXJ9K7PplKIUw2bdZVzb0mOB0eUDvLjLMEy_delyjr6GKhdGZjhjRGY8rorBomk_OH9pMuujhiV130T5MGZXmDPkY9JMgkewlV_AtPAAAAAUvGLIMA",
         "required": true
       },
       "PING_IMG_URL": {
         "description": "The pic which will be shown when you give the /ping cmd to the bot.",
-        "value": "",
+        "value": "https://telegra.ph/file/ce8efab574dd85199b3f3.jpg",
         "required": false
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "",
+        "value": "https://telegra.ph/file/f4dd082719ff381b9101d.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -95,17 +95,18 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001725294863",
         "required": true
       },
       "SUPPORT_GROUP": {
         "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
-        "value": "https://t.me/DevilsHeavenMF",
+        "value": "https://t.me/ACR_CHATTING",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Link of your telegram channel.",
-        "value": "https://t.me/Akhand_Words",
+        "value": "https://t.me/ABOUT_DHIMAN_X",
+ 
         "required": false
       }
     },
